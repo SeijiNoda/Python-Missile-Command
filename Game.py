@@ -1,6 +1,6 @@
 # Replica of "Missile Command" from ATARI (TI402 project)
-## Matheus Seiji Luna Noda - 19190
-## November 2020
+## Matheus Seiji Luna Noda, 19190 - November 2020
+## Github at "https://github.com/SeijiNoda/Python-Missile-Command/tree/master"
 
 
 #Import pygame library
